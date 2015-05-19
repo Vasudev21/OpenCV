@@ -1,3 +1,6 @@
+// Example code from opencv github repository
+// Works on linux
+
 #include "opencv2/objdetect.hpp"
 #include "opencv2/videoio.hpp"
 #include "opencv2/highgui.hpp"
